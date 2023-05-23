@@ -1,0 +1,38 @@
+
+.title-container {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.index-body {
+    background-color: #ffb68c;
+}
+
+.toast-body {
+    background-color: aquamarine;
+}
+
+.lasagna-body {
+    background-color: beige;
+}
+
+.waffles-body {
+    background-color: blanchedalmond;
+}
+
+.links-container li {
+    padding: 20px;
+    font-size: 20px;
+    background-color: cyan;
+    border: 2px solid slateblue;
+    margin: 10px;
+}
+
+.links-container {
+    list-style-type: none;
+    display: inline-block;
+    text-align: left;
+
+}
