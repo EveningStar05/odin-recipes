@@ -36,3 +36,32 @@
     text-align: left;
 
 }
+
+.content-toast {
+    background-color: thistle;
+}
+
+.content-lasagna {
+    background-color: yellowgreen;
+}
+
+.content-waffles {
+    background-color: azure;
+}
+
+.lasagna-list-container {
+    background-color: burlywood;
+    padding: 20px;
+    margin: auto;
+}
+
+.lasagna-list-container li {
+    margin: 15px;
+}
+
+
+.container {
+    margin: auto;
+    padding: 40px;
+}
+
