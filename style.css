@@ -59,9 +59,30 @@
     margin: 15px;
 }
 
+.container.content-lasagna h2, .container.content-toast h2,
+.container.content-waffles h2, .lasagna-body h1 {
+    font-size: 50px;
+}
+
+.container.content-lasagna h2, .container.content-toast h2,
+.container.content-waffles h2 {
+    background-color: coral;
+    text-align: center;
+    padding: 10px;
+}
+
+.container.content-lasagna, .container.content-toast,
+.container.content-waffles {
+    font-size: 20px;
+}
+
+.lasagna-list-container, .toast-list-container, .waffles-list-container {
+    font-size: 25px;
+}
 
 .container {
     margin: auto;
     padding: 40px;
 }
+
 
